@@ -1,8 +1,3 @@
-# World-Life-Expectancy-
-This exploratory analysis reveals global health patterns across 15 years using the World Life Expectancy dataset. By examining trends in life expectancy, GDP, BMI, development status, and adult mortality, several clear insights emerge.
-Got you, Alex — here is the **full, clean, copy‑paste‑ready README.md** exactly as it should appear in your GitHub repository, **with all screenshot placeholders already embedded**.  
-Just paste this into your repo’s main `README.md` and upload your screenshots into the folders you created — everything will render perfectly.
-
 ---
 
 # 🌍 **World Life Expectancy – SQL Data Cleaning & Exploratory Analysis**  
