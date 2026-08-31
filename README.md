@@ -1,5 +1,3 @@
----
-
 # 🌍 **World Life Expectancy – SQL Data Cleaning & Exploratory Analysis**  
 *A complete SQL portfolio project demonstrating data cleaning, validation, and exploratory analysis using global health data.*
 
